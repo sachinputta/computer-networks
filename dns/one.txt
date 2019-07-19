@@ -1,0 +1,9 @@
+w3school.com 3198.217.7.300
+geeksforgeeks.com 3198.200.67.110
+codechef.com 3198.215.167.315
+facebook.com 3198.215.167.100
+google.com 3172.16.3.12
+iitg.ac.in 3192.116.589.222
+yahoo.com 367.195.160.76
+bing.com 365.55.175.254
+
